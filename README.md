@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=c7a48b&height=300&section=header&text=Github%20von%20Rosa&animation=twinkling&desc=welcome%20to%20the%20Rosaland%20this%20is&descSize=20&descAlignY=21&fontColor=FFFFFF" width=94% />
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosa-Eau&layout=donut&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" width=38% />
 </a>    
