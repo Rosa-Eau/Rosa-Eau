@@ -1,5 +1,3 @@
-[![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rosa-Eau)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Rosa-Eau/Rosa-Eau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosa-Eau&layout=donut&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rosa-Eau&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rosa-Eau&theme=gruvbox&hide_border=true" width=94%/>
+</a>
