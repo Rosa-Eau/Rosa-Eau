@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rosa-Eau&theme=gruvbox&hide_border=true" width="94%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rosa-Eau&theme=gruvbox&hide_border=true&count_private=true" width="94%" />
     </a>
 </p>
