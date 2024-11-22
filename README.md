@@ -22,13 +22,13 @@ Here are some ideas to get you started:
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosa-Eau&layout=donut&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_orgs=true" width="38%" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Rosa-Eau&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" width="56%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Rosa-Eau&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_orgs=true" width="56%" />
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rosa-Eau&theme=gruvbox&hide_border=true&count_private=true" width="94%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rosa-Eau&theme=gruvbox&hide_border=true&count_private=true&include_orgs=true" width="94%" />
     </a>
 </p>
 
