@@ -45,15 +45,12 @@ Here are some ideas to get you started:
 
 ### Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-EF4123.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ### ORM
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?&style=for-the-badge&logo=Hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-007396.svg?&style=for-the-badge&logo=Hibernate&logoColor=white)
 
 ### Platforms
@@ -74,18 +71,13 @@ Here are some ideas to get you started:
 
 ### DevOps Tools
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Certbot](https://img.shields.io/badge/Certbot-FF9800?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
